@@ -22,5 +22,7 @@ and increase the model performance.
 
 ## Summary
 The best accuracy of the 5 classifiers were compared in table below. The 5 algorithms all have good accuracy for the wine dataset.kNN has the best performance, with the highest accuracy and shortest training time.
-![1](https://user-images.githubusercontent.com/50339450/167273249-a686be96-669b-47b5-9b88-7a1e27d43623.png)
+
+![2](https://user-images.githubusercontent.com/50339450/167273452-d3ff42f9-70d3-4d47-9e4a-3b43da9886cf.png)
+
 
