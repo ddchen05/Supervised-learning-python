@@ -16,3 +16,9 @@ The wine dataset used for this analysis includes the first 2200 instances of the
 |2004|3|12\.74562|4\.072534|2\.415821|21\.417589|100\.328676|1\.861831|4\.243816|0\.317223|2\.608496|8\.036917|0\.614371|1\.561459|563\.890107|
 |403|3|14\.12093|2\.972|1\.974538|22\.460124|99\.29783|1\.482434|0\.499428|0\.619503|1\.283445|9\.515219|0\.629635|1\.438051|509\.489705|
 
+## Methodology
+The dataset is divided into two subsets. 60% of the original dataset is training data and the rest is testing data. The split is completed by using train_test_split() from the scikit-learn(Sklearn) library. The Sklearn library is then used to implement the 5 algorithms on the training data. The model performance against individual hyperparameters is evaluated via 5-fold cross-validation. Hyperparameters are then tuned by grid search and cross-validation to optimize the model architecture 
+and increase the model performance.
+
+## Summary
+
