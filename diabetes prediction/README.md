@@ -22,3 +22,7 @@ Age :- Age(years)
 DiabetesPedigreeFunction :-scores likelihood of diabetes based on family history)
 
 Outcome :- 0(doesn't have diabetes) or 1 (has diabetes)
+
+A sample of the dataset is shown below
+![Screenshot 2022-09-07 230900](https://user-images.githubusercontent.com/50339450/189032443-d9789625-2835-4842-a27a-7bc9441cadf2.jpg)
+
