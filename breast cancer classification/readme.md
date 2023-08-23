@@ -1,7 +1,10 @@
 ## Breast cancer classification
 
 The correct diagnosis of breast cancer and classification of patients into malignant or benign groups can promote timely clinical treatment to patients.
-Dataset consists of several Medical Variables(Independent) and one Outcome Variable(Dependent).Here I used several different supervised machine learning classifier algorithms and compared their performance.
+
+In this study, I have applied eight machine learning algorithms: Support Vecotr Machine (SVM), Logistic Regression, K–Nearest Neighbor(KNN), Naive Bayes Classifier
+,Decision Tree Classifier, Random Forest Classifier,Adaboost Classifier, and XGBoost Classifier on the Breast Cancer Wisconsin Diagnostic dataset, after obtaining the results, a performance evaluation and comparison is carried out between these different classifiers. The main objective of study is to predict and diagnosis
+breast cancer, using machine-learning algorithms, and find out the most effective with respect to confusion matrix, accuracy and precision. It is observed that Support vector Machine outperformed all other classifiers and achieved the highest accuracy ().All the work is done in the Anaconda environment based on python programming language and Scikit-learn library.
 
 ## Dataset description:
 
