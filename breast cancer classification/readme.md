@@ -3,15 +3,15 @@
 The correct diagnosis of breast cancer and classification of patients into malignant or benign groups can promote timely clinical treatment to patients.
 Dataset consists of several Medical Variables(Independent) and one Outcome Variable(Dependent).Here I used several different supervised machine learning classifier algorithms and compared their performance.
 
-## dataset description:
+## Dataset description:
 
 Attribute Information:
 
-1) ID number
+(1) ID number
    
-2) Diagnosis (M = malignant, B = benign)
+(2) Diagnosis (M = malignant, B = benign)
    
-3-32)
+(3-32)
 Ten real-valued features are computed for each cell nucleus:
 
 a) radius (mean of distances from center to points on the perimeter)
