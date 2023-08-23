@@ -36,13 +36,13 @@ Class distribution: 357 benign, 212 malignant
 1) Exploratory data analysis of dataset
    
 2) build different classification models 
-Support Vector Classifier
-Logistic Regression
-K – Nearest Neighbor Classifier
-Naive Bayes Classifier
-Decision Tree Classifier
-Random Forest Classifier
-Adaboost Classifier
+Support Vector Classifier,
+Logistic Regression,
+K – Nearest Neighbor Classifier,
+Naive Bayes Classifier,
+Decision Tree Classifier,
+Random Forest Classifier,
+Adaboost Classifier,
 XGBoost Classifier
 
 3) Conclusion
