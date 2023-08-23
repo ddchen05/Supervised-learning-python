@@ -46,6 +46,9 @@ Adaboost Classifier
 XGBoost Classifier
 
 3) Conclusion
+ After training all algorithms, we evaluated them based on confusion matrix, sensitivity, precision, f1-score,ROC-AUC score to identify the best machine learning algorithm.
+
+we found that AdaBoost and XGBoost classifiers outperform all other algorithms and we have chosen AdaBoost.
 
 
 
